@@ -1,0 +1,9 @@
+{
+  "name": "learn_nodejs",
+  "version": "1.0.0",
+  "description": "A package to learn node js",
+  "main": "index.js",
+  "repository": "https://github.com/manik8/node_project.git",
+  "author": "manik8 <maniksharma2014.ms@gmail.com>",
+  "license": "MIT"
+}
